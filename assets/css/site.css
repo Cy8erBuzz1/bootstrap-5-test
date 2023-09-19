@@ -1,0 +1,8 @@
+.container {
+    width: auto;
+    max-width: 680 px;
+    padding: 0 15 px;
+  }
+footer {
+    padding bottom: 0;
+}
